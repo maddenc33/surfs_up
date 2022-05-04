@@ -66,6 +66,5 @@ I would recommend two additional queries:
   1. Examinine precipitation data as .  Although temperatures in the Oahu climate are relatively stable, perhaps there is a rainy season and a dry season.
   2. Examine tourist flow throughout the year.  Perhaps there are slower and busier seasons.
 
-An additional recommendation would be to gather monthly data and examine all twelve months of the year.
 ---
 
